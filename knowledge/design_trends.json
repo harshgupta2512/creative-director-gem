@@ -1,0 +1,26 @@
+{
+  "rss_feeds": [
+    "https://www.creativereview.co.uk/feed/",
+    "https://www.itsnicethat.com/feed",
+    "https://www.underconsideration.com/brandnew/rss/",
+    "https://eyeondesign.aiga.org/feed/"
+  ],
+  "blogs": [
+    "https://www.itsnicethat.com",
+    "https://eyeondesign.aiga.org",
+    "https://www.creativereview.co.uk",
+    "https://www.underconsideration.com/brandnew"
+  ],
+  "youtube_channels": [
+    "https://www.youtube.com/c/thefuturishere",
+    "https://www.youtube.com/user/AdobeCreativeCloud",
+    "https://www.youtube.com/c/underconsideration",
+    "https://www.youtube.com/c/voxdotcom",
+    "https://www.youtube.com/c/ItsNiceThat"
+  ],
+  "trend_sources": [
+    "https://www.pinterestpredicts.com/",
+    "https://www.trendwatching.com/",
+    "https://www.wgsn.com/"
+  ]
+}
